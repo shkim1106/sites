@@ -71,7 +71,8 @@ File: Layout CSS
 .container .content p.donation{font-size: 1.5rem;margin-bottom: 10px;}
 .container .content p.bibleverse{text-align: center;}
 .container #gallery p.stuname{text-align: center;}
-.container .content div.names{width: 220px; float: left; display: block;}
+.container .content div.names{width: 210px; height: 130px;float: left; display: block; line-height: 20px;}
+.container .content div.namesa{width: 250px; height: 130px;float: left; display: block; line-height: 20px;}
 
 .sectiontitle{display:block; max-width:55%; margin:0 auto 80px; text-align:center;}
 .sectiontitle *{margin:0;}
